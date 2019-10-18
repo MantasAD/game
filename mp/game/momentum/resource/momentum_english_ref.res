@@ -397,7 +397,7 @@
         "MOM_NotApplicable" "N/A"
 
         // WEB/API/SERVER RESPONSES
-        "MOM_API_WaitingForResponse" "Getting response..."
+        "MOM_API_WaitingForResponse" "Fetching data..."
         "MOM_API_Unavailable" "API is currently unavailable"
         "MOM_API_ServerError" "Server Error"
         "MOM_API_NoTimesReturned" "No runs found"
